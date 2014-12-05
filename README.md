@@ -10,7 +10,7 @@ TextWrangler(http://www.barebones.com/products/textwrangler/) is a free graphica
 
 This project merges the efforts of TextWrangler with Pig by providing the syntax highlighting and other features of TextWrangler for Pig Latin script files.
 
-##Installation (TextWrangler)##
+##Installation##
 ###Text Wrangler###
 1. Fully quit from any running instance of TextWrangler
 2. Download the pig.plist file above.
