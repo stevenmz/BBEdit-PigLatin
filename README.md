@@ -4,7 +4,7 @@ BBEdit-PigLatin
 A codeless language module (CLM) to provide syntax highlighting and other features for the Pig Latin language to the TextWrangler / BBedit text editor.
 
 ##Purpose##
-TextWrangler(http://www.barebones.com/products/textwrangler/) is a free graphical text editor for OS X that provides a good editor for developers that do not want to open heavy-weight IDEs like Eclipse or NetBeans. Text Wrangler comes with built-in support for many languages, though Pig Latin is not one of them.
+[TextWrangler](http://www.barebones.com/products/textwrangler/) is a free graphical text editor for OS X that provides a good editor for developers that do not want to open heavy-weight IDEs like Eclipse or NetBeans. Text Wrangler comes with built-in support for many languages, though Pig Latin is not one of them.
 
 [Pig Latin](http://pig.apache.org/docs/r0.14.0/basic.html) is the high-level language used by the [Apache Pig project](http://pig.apache.org/) to allow allow developers to quickly code or explore their data analysis tasks.
 
